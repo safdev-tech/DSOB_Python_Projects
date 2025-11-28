@@ -1,4 +1,4 @@
-Project Title: World Population Analysis (1950 - 2023)
+# World Population Analysis (1950 - 2023)
 
 Research Question:
 How does population growth rates vary across continents, and what factors influence these trends?
