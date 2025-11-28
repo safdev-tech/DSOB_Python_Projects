@@ -7,7 +7,7 @@ Hypothesis:
 Population growth rates differ significantly across continents, and Male and Female populations are significantly different.
 
 Datasets:
-4 data sources: Male Population, Female Population, Continents, Births and Deaths Projected to 2100
+4 data sources: Male Population, Female Population, Continents, Births and Deaths Projected to 2100 </br>
 Most important columns: Year, Country, Continent, Male Population, Female Population, Total Population.
 
 Key libraries:
@@ -16,11 +16,11 @@ Pands
 Matplotlib
 Seaborn
 Plotly
-Sklearn
+Sklearn </br>
 Data lifecycle steps: 
-Data Sources – Data Cleaning and Processing – Data Exploration and Analysis – Predictive Machine Learning
+Data Sources – Data Cleaning and Processing – Data Exploration and Analysis – Predictive Machine Learning </br>
 
-Result
+Result:
 Over the period 1950 – 2023, the world population grew from about 2.5 billion to close to 8.1 billion, i.e. more than 300% growth in 73 years
 Consistently Asian countries tend to have largest populations, while North and South America have experienced moderate population growth
 European countries tend to have lower population growth
